@@ -32,7 +32,7 @@ export default function Library() {
         <SortDropdown value={sort} onChange={setSort} />
       </div>
       {loading ? (
-        <div className="loading">Loading workouts…</div>
+        <div className="loading">Loading </div>
       ) : (
         <div className="card-grid">
           {ordered.map((workout) => (
