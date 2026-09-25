@@ -9,7 +9,7 @@ export default function Hero() {
           today&apos;s plan, and watch the week&apos;s work add up.
         </p>
         <a className="button lime" href="#library">
-          Browse workouts <span aria-hidden="true">→</span>
+          Browse  <span aria-hidden="true">→</span>
         </a>
       </div>
       <div
