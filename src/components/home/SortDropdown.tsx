@@ -13,7 +13,7 @@ export default function SortDropdown({
         value={value}
         onChange={(event) => onChange(event.target.value)}
       >
-        <option value="duration">Duration</option>
+        <option value="duration">Duration.</option>
         <option value="caloriesBurned">Calories</option>
         <option value="rating">Rating</option>
       </select>
